@@ -36,6 +36,7 @@ rulesets = {
 	require 'tetris.rulesets.arika_ace',
 	require 'tetris.rulesets.arika_srs',
 	require 'tetris.rulesets.standard_exp',
+	require 'tetris.rulesets.dtet',
 	--require 'tetris.rulesets.bonkers',
 	--require 'tetris.rulesets.shirase',
 	--require 'tetris.rulesets.super302',
